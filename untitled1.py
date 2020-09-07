@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep  6 16:42:54 2020
-
-@author: Julian
-"""
-
-
 import secrets
 lista = ["papier","kamien","nozyce"]
 while True:
